@@ -1,0 +1,13 @@
+{
+  "id": "wmuptyn0mj29o",
+  "title": "测试 · 将被拒绝的稿件",
+  "type": "entry",
+  "content": "这是拒绝流程测试稿件。",
+  "tags": [],
+  "desc": "用于验证「拒绝」流程，不会发布。",
+  "author": "默示录",
+  "authorId": "seed",
+  "submittedAt": "2026-10-01T17:50:59.590Z",
+  "status": "rejected",
+  "rejectReason": "重复的流程验证稿件"
+}
